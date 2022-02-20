@@ -101,3 +101,69 @@ text-transform: uppercase;
 
 color: #1F2041;
 }
+
+.Group3{
+    position: absolute;
+width: 380px;
+height: 512px;
+left: 560px;
+top: -414px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.12);
+box-sizing: border-box;
+box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.2);
+border-radius: 4px;
+}
+
+.Group4{
+    position: absolute;
+    width: 380px;
+    height: 358px;
+    left: 560px;
+    top: 138px;
+    
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
+
+.Group5{
+    position: absolute;
+width: 320px;
+height: 369px;
+left: 980px;
+top: -414px;
+
+background: #FFFFFF;
+border: 1px solid rgba(31, 32, 65, 0.25);
+box-sizing: border-box;
+box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
+border-radius: 4px;
+}
+
+.Group6{
+    position: absolute;
+width: 270px;
+height: 257px;
+left: 980px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
+border-radius: 4px;
+}
+
+.Group7{
+    position: absolute;
+width: 270px;
+height: 257px;
+left: 980px;
+top: 300px;
+
+background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
+border-radius: 4px;
+}
