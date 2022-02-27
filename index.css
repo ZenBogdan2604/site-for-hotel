@@ -2,7 +2,7 @@
     position: absolute;
 width: 380px;
 height: 374px;
-left: 140px;
+left: 280px;
 top: 150px;
 
 background: #FFFFFF;
@@ -32,7 +32,7 @@ color: #1F2041;
 .link-button{  
 width: 280px;
 height: 15px;
-padding: 210px 85px;
+padding: 300px 85px;
 
 text-decoration: none;
 display: inline-block;
@@ -48,7 +48,7 @@ color: #e215e9;
     position: absolute;
 width: 380px;
 height: 646px;
-left: 140px;
+left: 280px;
 top: 564px;
 
 background: #FFFFFF;
@@ -106,7 +106,7 @@ color: #1F2041;
     position: absolute;
 width: 380px;
 height: 512px;
-left: 560px;
+left: 420px;
 top: -414px;
 
 background: #FFFFFF;
@@ -120,7 +120,7 @@ border-radius: 4px;
     position: absolute;
     width: 380px;
     height: 358px;
-    left: 560px;
+    left: 420px;
     top: 138px;
     
     background: #FFFFFF;
@@ -134,7 +134,7 @@ border-radius: 4px;
     position: absolute;
 width: 320px;
 height: 369px;
-left: 980px;
+left: 840px;
 top: -414px;
 
 background: #FFFFFF;
@@ -148,7 +148,7 @@ border-radius: 4px;
     position: absolute;
 width: 270px;
 height: 257px;
-left: 980px;
+left: 840px;
 top: 0px;
 
 background: #FFFFFF;
@@ -160,10 +160,90 @@ border-radius: 4px;
     position: absolute;
 width: 270px;
 height: 257px;
-left: 980px;
+left: 840px;
 top: 300px;
 
 background: #FFFFFF;
 box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
 border-radius: 4px;
+}
+.link-button1{
+    position: absolute;
+width: 230px;
+height: 15px;
+left: 30px;
+top: 280px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #e312eb;
+
+}
+.login-button{
+    position: absolute;
+width: 47px;
+height: 15px;
+left: 240px;
+top: 550px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+
+/* Primary Color */
+
+color: #BC9CFF;
+
+}
+.Text4{
+    position: absolute;
+width: 69px;
+height: 30px;
+left: 40px;
+top: 30px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 17px;
+
+/* Dark 100% */
+
+color: #1F2041;
+}
+.mini-text{
+    position: absolute;
+width: 41px;
+height: 15px;
+left: 115px;
+top: 37px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+/* Primary Color */
+
+color: #BC9CFF;
+
 }
