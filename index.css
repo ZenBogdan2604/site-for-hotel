@@ -17,7 +17,7 @@ border-radius: 4px;
 width: 320px;
 height: 59px;
 left: 35px;
-top: 30px;
+top: 40px;
 
 font-family: Montserrat;
 font-style: normal;
@@ -246,4 +246,54 @@ text-transform: uppercase;
 
 color: #BC9CFF;
 
+}
+.Text5{
+    position: absolute;
+width: 320px;
+height: 30px;
+left: 30px;
+top: 30px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+/* Dark 100% */
+
+color: #1F2041;
+}
+.Text6{
+    position: absolute;
+width: 119px;
+height: 24px;
+left: 100px;
+top: 20px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 23px;
+/* identical to box height */
+
+text-align: center;
+
+/* Dark 100% */
+
+color: #1F2041;
+
+}
+.img1{
+    position: absolute;
+width: 270px;
+height: 150px;
+}
+.img2{
+    position: absolute;
+    width:270px ;
+    height: 150px;
 }
