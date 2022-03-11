@@ -30,19 +30,25 @@ line-height: 29px;
 color: #1F2041;
 }
 .link-button{  
-width: 280px;
-height: 15px;
-padding: 300px 85px;
-
-text-decoration: none;
-display: inline-block;
-font-family: Montserrat;
-font-style: normal;
-font-weight: bold;
-font-size: 12px;
-line-height: 15px;
-
-color: #e215e9;
+    position: absolute;
+    width: 320px;
+    height: 28px;
+    left: 0px;
+    top: 15px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+    color: #ffffff;
+    
 }
 .Group2{
     position: absolute;
@@ -106,8 +112,8 @@ color: #1F2041;
     position: absolute;
 width: 380px;
 height: 512px;
-left: 420px;
-top: -414px;
+left: 700px;
+top: 150px;
 
 background: #FFFFFF;
 border: 1px solid rgba(0, 0, 0, 0.12);
@@ -120,8 +126,8 @@ border-radius: 4px;
     position: absolute;
     width: 380px;
     height: 358px;
-    left: 420px;
-    top: 138px;
+    left: 700px;
+    top: 700px;
     
     background: #FFFFFF;
     border: 1px solid rgba(0, 0, 0, 0.12);
@@ -134,8 +140,8 @@ border-radius: 4px;
     position: absolute;
 width: 320px;
 height: 369px;
-left: 840px;
-top: -414px;
+left: 1115px;
+top: 150px;
 
 background: #FFFFFF;
 border: 1px solid rgba(31, 32, 65, 0.25);
@@ -148,8 +154,8 @@ border-radius: 4px;
     position: absolute;
 width: 270px;
 height: 257px;
-left: 840px;
-top: 0px;
+left: 1115px;
+top: 550px;
 
 background: #FFFFFF;
 box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
@@ -160,8 +166,8 @@ border-radius: 4px;
     position: absolute;
 width: 270px;
 height: 257px;
-left: 840px;
-top: 300px;
+left: 1115px;
+top: 830px;
 
 background: #FFFFFF;
 box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
@@ -169,10 +175,10 @@ border-radius: 4px;
 }
 .link-button1{
     position: absolute;
-width: 230px;
-height: 15px;
-left: 30px;
-top: 280px;
+width: 330px;
+height: 28px;
+left: 0px;
+top: 15px;
 
 font-family: Montserrat;
 font-style: normal;
@@ -183,8 +189,9 @@ line-height: 15px;
 
 text-align: center;
 text-transform: uppercase;
+text-decoration: none;
 
-color: #e312eb;
+color: #ffffff;
 
 }
 .login-button{
@@ -296,4 +303,93 @@ height: 150px;
     position: absolute;
     width:270px ;
     height: 150px;
+}
+.block_for_button{
+    position: absolute;
+width: 320px;
+height: 44px;
+left: 0px;
+top: 456px;
+
+/* Primary Gradient */
+
+background: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+border-radius: 22px;
+}
+.block_for_button2{
+    position: absolute;
+width: 320px;
+height: 44px;
+left: 0px;
+top: 250px;
+
+/* Primary Gradient */
+
+background: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+border-radius: 22px;
+}
+.block_for_button3{
+    position: absolute;
+width: 320px;
+height: 44px;
+left: 30px;
+top: 430px;
+
+/* Primary Gradient */
+
+background: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+border-radius: 22px;
+}
+.block_for_button4{
+    position: absolute;
+width: 320px;
+height: 44px;
+left: 30px;
+top: 190px;
+
+/* Primary Gradient */
+
+background: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+border-radius: 22px;
+}
+.link-button2{
+    position: absolute;
+width: 330px;
+height: 28px;
+left: 0px;
+top: 15px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+text-decoration: none;
+
+color: #ffffff;
+}
+.link-button3{
+    position: absolute;
+    width: 330px;
+    height: 28px;
+    left: 0px;
+    top: 15px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+    color: #ffffff;
+
 }
