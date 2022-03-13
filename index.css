@@ -393,3 +393,10 @@ color: #ffffff;
     color: #ffffff;
 
 }
+.clndr{
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 12;
+    top: 12;
+}
