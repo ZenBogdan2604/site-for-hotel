@@ -508,3 +508,134 @@ border-radius: 4px;
     color: #1F2041;
     
 }
+.clndr3{
+    position: absolute;
+    width: 150px;
+    height: 44px;
+    left: 30px;
+    top: 90px;
+    
+    background: #FFFFFF;
+    /* Dark 25% */
+    
+    border: 1px solid rgba(31, 32, 65, 0.25);
+    box-sizing: border-box;
+    border-radius: 4px; 
+}
+.slcts_wrd3{
+    position: absolute;
+    width: 83px;
+    height: 15px;
+    left: 30px;
+    top: 75px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    /* Dark 100% */
+    
+    color: #1F2041;
+    
+}
+.clndr4{
+    position: absolute;
+width: 150px;
+height: 44px;
+left: 200px;
+top: 90px;
+
+background: #FFFFFF;
+/* Dark 25% */
+
+border: 1px solid rgba(31, 32, 65, 0.25);
+box-sizing: border-box;
+border-radius: 4px;
+}
+.slcts_wrd4{
+    position: absolute;
+    width: 83px;
+    height: 15px;
+    left: 200px;
+    top: 75px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    /* Dark 100% */
+    
+    color: #1F2041;
+}
+.slct2{
+    position: absolute;
+    width: 320px;
+    height: 44px;
+    left: 30px;
+    top: 170px;
+    
+    background: #FFFFFF;
+    /* Dark 25% */
+    
+    border: 1px solid rgba(31, 32, 65, 0.25);
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.slcts_wrd5{
+    position: absolute;
+    width: 43px;
+    height: 15px;
+    left: 30px;
+    top: 155px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    /* Dark 100% */
+    
+    color: #1F2041;  
+}
+.p1{
+    position: absolute;
+    width: px;
+    height: 1px;
+    left: 30px;
+    top: 220px;
+}
+.p2{
+    position: absolute;
+    width: px;
+    height: 1px;
+    left: 300px;
+    top: 220px;
+}
+.h1{
+    position: absolute;
+    width: px;
+    height: 1px;
+    left: 30px;
+    top: 360px;
+}
+.h2{
+    position: absolute;
+    width: px;
+    height: 1px;
+    left: 240px;
+    top: 360px;
+}
