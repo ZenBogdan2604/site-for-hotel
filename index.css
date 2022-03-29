@@ -675,3 +675,159 @@ align-items: center;
 color: #000000;
 
 }
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+  
+  /* Hide default HTML checkbox */
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  /* The slider */
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: #ffffff;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: #BC9CFF;
+  }
+  
+  input:focus + .slider {
+   
+    box-shadow: 0 0 1px #BC9CFF ;
+    
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+  .Text9{
+    position: absolute;
+    width: 210px;
+    height: 24px;
+    left: 70px;
+    top: 127px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+    
+    
+    /* Dark 75% */
+    
+    color: rgba(31, 32, 65, 0.75);
+    
+  }
+  .pp{
+    position: absolute;
+    width: 59px;
+    height: 24px;
+    left: 20px;
+    top: 170px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 17px;
+    
+    /* Dark 100% */
+    
+    color: #1F2041;
+  }
+.mini-text2{  
+  position: absolute;
+width: 41px;
+height: 15px;
+left: 85px;
+top: 180px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+/* Primary Color */
+
+color: #BC9CFF;
+}
+.pp1{
+    position: absolute;
+width: px;
+height: 15px;
+left: 145px;
+top: 175px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+/* or 129% */
+
+color: rgba(31, 32, 65, 0.5);
+}
+.pp2{
+    position: absolute;
+width: px;
+height: 18px;
+left: 152px;
+top: 210px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+text-align: right;
+
+/* Dark 50% */
+
+color: rgba(31, 32, 65, 0.5);
+}
