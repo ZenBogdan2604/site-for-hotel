@@ -743,6 +743,82 @@ color: rgba(31, 32, 65, 0.75);
 	color: rgba(31, 32, 65, 0.75);
 	
 }
+.h6{
+	position: absolute;
+width: 91.77px;
+height: 24px;
+left: 159.86px;
+top: 1500px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 23px;
+/* identical to box height */
+
+
+/* Dark 100% */
+
+color: #1F2041;
+}
+.r{
+	position: absolute;
+width: 242.56px;
+height: 24px;
+left: 140px;
+top: 1550px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+
+/* Dark 75% */
+
+color: rgba(31, 32, 65, 0.75);
+}
+.h7{
+	position: absolute;
+width: 79px;
+height: 24px;
+left: 800px;
+top: 1500px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 23px;
+/* identical to box height */
+
+
+/* Dark 100% */
+
+color: #1F2041;
+}
+.pp11{
+	position: absolute;
+width: 341px;
+height: 96px;
+left: 800px;
+top: 1550px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+/* Dark 75% */
+
+color: rgba(31, 32, 65, 0.75);
+}
 /*---------------------------------FOOTER------------------------------------------*/
 
 footer{
@@ -757,7 +833,7 @@ box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
 width: 1903px;
 height: 367px;
 left: 0px;
-top: 1496px;
+top: 1800px;
 
 background: #FFFFFF;
 
@@ -1100,7 +1176,7 @@ color: rgba(31, 32, 65, 0.5);
 width: 1903px;
 height: 70px;
 left: 0px;
-top: 1864px;
+top: 2168px;
 
 background: #FFFFFF;
 box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
