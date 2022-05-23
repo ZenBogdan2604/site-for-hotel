@@ -476,7 +476,7 @@ border-radius: 4px;
     display: block;
     position: relative;
     padding-left: 35px;
-    margin-bottom: 12px;
+    margin-bottom: 45px;
 	width: px;
 	height: 18px;
 	font-weight: 700;
@@ -568,6 +568,105 @@ border-radius: 4px;
 	/* Dark 100% */
 	
 	color: #1F2041;
+  }
+  .p{
+	position: absolute;
+	width: 203px;
+	height: 28px;
+	left: 35px;
+	top: 15px;
+	
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 14px;
+	/* or 117% */
+	
+	
+	/* Dark 50% */
+	
+	color: rgba(31, 32, 65, 0.5);
+	
+  }
+  .p1{
+	position: absolute;
+width: 236px;
+height: 28px;
+left: 35px;
+top: 80px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+/* or 117% */
+
+
+/* Dark 50% */
+
+color: rgba(31, 32, 65, 0.5);
+
+  }
+  .checkbox3{
+	  position: absolute;
+	  top: 800px;
+	  left: px;
+  }
+  .p2{
+	position: absolute;
+	width: 209px;
+	height: 15px;
+	left: 0px;
+	top: -45px;
+	
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 15px;
+	/* identical to box height */
+	
+	text-transform: uppercase;
+	
+	/* Dark 100% */
+	
+	color: #1F2041;
+	
+  }
+  .clndr{
+	  position: absolute;
+	  width: 250px;
+      height: 40px;
+	  top: 100px;
+	  left: px;
+  }
+  .p3{
+	position: absolute;
+	width: 197px;
+	height: 15px;
+	left: 0px;
+	top: 50px;
+	
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 15px;
+	/* identical to box height */
+	
+	text-transform: uppercase;
+	
+	/* Dark 100% */
+	
+	color: #1F2041;
+	
+  }
+  .clndr1{
+	  position: absolute;
+	  top: 40px;
+	  left: px;
   }
 /*---------------------------------FOOTER------------------------------------------*/
 
