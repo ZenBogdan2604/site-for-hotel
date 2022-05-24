@@ -88,8 +88,8 @@ font-family: 'Montserrat';
 }
 .block_for_button10{
     position: absolute;
-width: 320px;
-height: 44px;
+width: 200px;
+height: 40px;
 left: 1150px;
 top: 25px;
 
@@ -102,8 +102,8 @@ border-radius: 22px;
     position: absolute;
     width: 320px;
     height: 28px;
-    left: 0px;
-    top: 15px;
+    left: -60px;
+    top: 13px;
     
     font-family: 'Montserrat';
     font-style: normal;
@@ -630,6 +630,27 @@ line-height: 14px;
 color: rgba(31, 32, 65, 0.5);
 
   }
+  .p5{
+	position: absolute;
+	width: 133px;
+	height: 15px;
+	left: px;
+	top: 690px;
+	
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 15px;
+	/* identical to box height */
+	
+	text-transform: uppercase;
+	
+	/* Dark 100% */
+	
+	color: #1F2041;
+	
+  }
   .checkbox3{
 	  position: absolute;
 	  top: 800px;
@@ -690,6 +711,41 @@ color: rgba(31, 32, 65, 0.5);
 	  top: 40px;
 	  left: px;
   }
+  .p4{
+	position: absolute;
+width: 43px;
+height: 15px;
+left: px;
+top: 190px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+/* Dark 100% */
+
+color: #1F2041;
+
+  }
+  .slct2{
+    position: absolute;
+    width: 255px;
+    height: 44px;
+    left: px;
+    top: 220px;
+    
+    background: #FFFFFF;
+    /* Dark 25% */
+    
+    border: 1px solid rgba(31, 32, 65, 0.25);
+    box-sizing: border-box;
+    border-radius: 4px;
+}
   .select{
 	position: absolute;
 	width: px;
@@ -697,12 +753,24 @@ color: rgba(31, 32, 65, 0.5);
 	top: 1200px;
 	left: 770px;
 }
+.block_for_button11{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: 38px;
+top: 82px;
+
+/* Primary Gradient */
+
+background: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+border-radius: 22px;
+}
   .page1{
 	position: absolute;
 	width: 40px;
 	height: 40px;
-	left: 50px;
-	top: 70px;
+	left: 17.5px;
+	top: -12px;
 	
 	font-family: 'Montserrat';
 	font-style: normal;
@@ -715,7 +783,7 @@ color: rgba(31, 32, 65, 0.5);
 	
 	/* Dark 50% */
 	
-	color: rgba(31, 32, 65, 0.5);
+	color: rgb(255, 255, 255);
 	
   }
   .page2{
