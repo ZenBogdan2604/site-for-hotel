@@ -126,7 +126,13 @@ border-radius: 22px;
 }
 
 /*---------------------------------MAIN------------------------------------------*/
-
+.img{
+	position: absolute;
+width: 1534px;
+height: 1142px;
+left: -44px;
+top: -166px;
+}
 .Group2{
     position: absolute;
 width: 380px;
